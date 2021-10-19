@@ -1,5 +1,5 @@
-.conteiner {
-    width: 100%;
+.container {
+    max-width: 320px;
     margin: 0 auto;
     padding: 0 15px;
   
@@ -8,6 +8,6 @@
     }
   
     @media screen and (min-width: 1280px) {
-      max-width: 855px;
+      max-width: 885px;
     }
   }
